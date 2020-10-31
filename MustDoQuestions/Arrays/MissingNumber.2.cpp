@@ -9,5 +9,5 @@ public:
             sum+=nums[i];
         }
         return (n*(n+1)/2  - sum);
-    }
+     }
 };
