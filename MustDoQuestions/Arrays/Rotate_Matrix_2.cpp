@@ -1,5 +1,6 @@
 //https://leetcode.com/problems/rotate-image/
 // No extra space used
+//O(1) space, O(m*n) time
 // Reverse column, then transpose
 //In case of clockwise, reverse row first using reverse(a[i], a[i] +n)
 
